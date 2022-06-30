@@ -13,5 +13,5 @@ adan.firstName = "adan";
 adan.sayHello("joko");
 
 //params
-const mega = new Person("mega", "seftiyani`");
-mega.sayHello("septi");
+const mega = new Person("mega", "jubaidah`");
+mega.sayHello("rani");
